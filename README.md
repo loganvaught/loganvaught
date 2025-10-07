@@ -1,1 +1,1 @@
-Hello, my name is Logan! I am a student at the University of Minnesota planning on pursuing computer science. Most of my coding experience comes from games I've published on Roblox written in luau, but I have (primarily academic) experience with Python, Java, and JavaScript as well.
+Hello, my name is Logan! I am a student at the University of Minnesota planning on pursuing computer science. Most of my coding experience comes from games I've published on Roblox written in luau, but I have some experience (primarily academic) with Python, Java, and JavaScript as well.
