@@ -1,1 +1,1 @@
-Hello, my name is Logan! I am a learning programmer and game developer, currently trying to upload previous creations for others to see.
+Hello, my name is Logan! I am a student at the University of Minnesota planning on pursuing computer science. Most of my coding experience comes from games I've published on Roblox written in luau. However, I have some experience with Python, Java, and JavaScript.
